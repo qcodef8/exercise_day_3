@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="./assets/header_.png"> 
+  <img src="https://github.com/qcode95/qcode95/raw/main/assets/header_.png"> 
 </div>
 
 <h1 align="center">
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="./assets/grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/qcode95/qcode95/raw/main/assets/grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
